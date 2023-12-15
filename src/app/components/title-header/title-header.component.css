@@ -1,0 +1,13 @@
+.header-title-container h1{
+  font-size: 8rem;
+  font-family: 'segoe UI', sans-serif;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  display: flex;
+  justify-content: center;
+}
+
+.header-title-container hr{
+  margin-top: 1.25rem;
+  margin-bottom: 1.25rem;
+}
